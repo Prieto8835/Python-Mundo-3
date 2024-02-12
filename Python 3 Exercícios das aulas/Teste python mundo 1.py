@@ -1,0 +1,5 @@
+print(19//2)
+print(19%2)
+print('Prova de Python')
+x = ('curso de python no cursoemvideo')
+print(x[:5])
